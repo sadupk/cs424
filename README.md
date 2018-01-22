@@ -6,4 +6,4 @@ I get my weather information from the Android app MyRadar Weather Radar. I like 
 ![Image](/Screenshot_20180118-202739.jpg)
 
 # Week 2:
-RShiny demo visualization: ![Temperature App]({{https://pkanalytics.shinyapps.io/evlweatherforr}})
+RShiny demo visualization: ![Temperature App]([https://pkanalytics.shinyapps.io/evlweatherforr)
