@@ -5,3 +5,6 @@ I get my weather information from the Android app MyRadar Weather Radar. I like 
 # MyRadar app
 ![Image](/Screenshot_20180118-202739.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+# Week 2:
+RShiny demo visualization: ![MyURL](https://pkanalytics.shinyapps.io/evlweatherforr)
